@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="NuGet.Protocol" Version="6.11.0" />
+    <PackageVersion Include="Octokit" Version="13.0.1" />
+    <PackageVersion Include="ProcessX" Version="1.5.5" />
+  </ItemGroup>
+</Project>
